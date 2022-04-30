@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon
-	id="skin.KPR"
+	id="skin.klex"
 	version="1.0.0"
-	name="KPR"
-	provider-name="Bidaine Michel">
+	name="Klex"
+	provider-name="alxngn, Alex Nguyen">
 	<requires>
 		<import addon="xbmc.gui" version="5.14.0"/>
 		<import addon="script.module.autocompletion" version="1.0.1"/>
@@ -20,10 +20,10 @@
 		<res width="2560" height="1080" aspect="21:9" default="false" folder="xml" />
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en_US">KPR, an elegant and easy-to-use skin for Kodi Leia (from Bidaine Michel)</summary>
-		<summary lang="fr_FR">KPR, un habillage élégant et facile d'utilisation pour Kodi Leia (de Bidaine Michel)</summary>
-		<description lang="en_US">KPR is an elegant and simple to use skin, it is customizable according to the needs of each. KPR is also fast and very light since it uses almost no additional script.</description>
-		<description lang="fr_FR">KPR est un habillage élégant et simple à utiliser, il est customizable selon les besoins de chacun. KPR est également rapide et très léger car il n'utilise quasiment aucun script additionnel.</description>
+		<summary lang="en_US">Klex, a fork of KPK (from Bidaine Michel), an elegant, Plex-inspired, and easy-to-use skin.</summary>
+		<summary lang="fr_FR">Klex, a fork of KPK (de Bidaine Michel), un habillage élégant et facile d'utilisation.</summary>
+		<description lang="en_US">Klex is an elegant and simple to use skin, it is customizable according to the needs of each. Klex is also fast and very light since it uses almost no additional script.</description>
+		<description lang="fr_FR">Klex est un habillage élégant et simple à utiliser, il est customizable selon les besoins de chacun. Klex est également rapide et très léger car il n'utilise quasiment aucun script additionnel.</description>
 		<disclaimer lang="en_US"></disclaimer>
 		<license>Creative Commons Corporation - Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</license>
 		<forum>https://forum.kodi.tv/showthread.php?tid=348586</forum>
