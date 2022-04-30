@@ -1,2 +1,2 @@
-# KPR
-Skin for Kodi Leia
+# Klex
+A Plex-inspired Skin for Kodi
